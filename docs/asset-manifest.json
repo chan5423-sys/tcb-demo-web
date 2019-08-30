@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5faa3f1b.chunk.css",
-    "main.js": "/static/js/main.1cfd06aa.chunk.js",
-    "main.js.map": "/static/js/main.1cfd06aa.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.ec1300f9.js",
-    "runtime~main.js.map": "/static/js/runtime~main.ec1300f9.js.map",
-    "static/js/2.bc5da2cd.chunk.js": "/static/js/2.bc5da2cd.chunk.js",
-    "static/js/2.bc5da2cd.chunk.js.map": "/static/js/2.bc5da2cd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.775596ed8f26ef8f0c2321a715f1a2d3.js": "/precache-manifest.775596ed8f26ef8f0c2321a715f1a2d3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5faa3f1b.chunk.css.map": "/static/css/main.5faa3f1b.chunk.css.map"
+    "main.css": "https://tencentcloudbase.github.io/tcb-demo-web/static/css/main.5faa3f1b.chunk.css",
+    "main.js": "https://tencentcloudbase.github.io/tcb-demo-web/static/js/main.402e2074.chunk.js",
+    "main.js.map": "https://tencentcloudbase.github.io/tcb-demo-web/static/js/main.402e2074.chunk.js.map",
+    "runtime~main.js": "https://tencentcloudbase.github.io/tcb-demo-web/static/js/runtime~main.ec9f7031.js",
+    "runtime~main.js.map": "https://tencentcloudbase.github.io/tcb-demo-web/static/js/runtime~main.ec9f7031.js.map",
+    "static/js/2.bc5da2cd.chunk.js": "https://tencentcloudbase.github.io/tcb-demo-web/static/js/2.bc5da2cd.chunk.js",
+    "static/js/2.bc5da2cd.chunk.js.map": "https://tencentcloudbase.github.io/tcb-demo-web/static/js/2.bc5da2cd.chunk.js.map",
+    "index.html": "https://tencentcloudbase.github.io/tcb-demo-web/index.html",
+    "precache-manifest.89d9283087e542eddb8b27fee9a6e43f.js": "https://tencentcloudbase.github.io/tcb-demo-web/precache-manifest.89d9283087e542eddb8b27fee9a6e43f.js",
+    "service-worker.js": "https://tencentcloudbase.github.io/tcb-demo-web/service-worker.js",
+    "static/css/main.5faa3f1b.chunk.css.map": "https://tencentcloudbase.github.io/tcb-demo-web/static/css/main.5faa3f1b.chunk.css.map"
   }
 }
